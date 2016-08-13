@@ -48,6 +48,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'carrierwave'
 gem 'mini_magick', '3.8.0'
 gem 'devise'
+gem 'gravtastic'
 group :development do
   gem 'sqlite3'
 end
